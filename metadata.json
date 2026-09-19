@@ -1,0 +1,6 @@
+{
+  "name": "Daily Routine",
+  "description": "A daily routine and habit tracker with morning, afternoon, and evening rituals, streak tracking, and customizable routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
